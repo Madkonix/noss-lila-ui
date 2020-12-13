@@ -1,4 +1,4 @@
-# Docker images ready to run lila
+# Running lila in a docker container
 
 This repository contains **Dockerfiles** to build containers ready to run [lila](https://github.com/ornicar/lila).
 
